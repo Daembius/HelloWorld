@@ -1,3 +1,4 @@
+![headshot](IMG_0325.JPG)
 # A little insight into Julien Mayard
 Hi everyone! My name is Julien Mayardand I am learning to use GitHub.
 
