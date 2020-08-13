@@ -6,10 +6,10 @@ Hi everyone! My name is Julien Mayard and I am learning to use GitHub.
 I am a property developper now learning to code in order to become a full-stack web developer.
 
 ## My Hobbies
-I like bicycling.
+I like bicycling. I'm also interested in education and prehistory.
 
 ## My favorite books
-Here are some f my favorite books:
+Here are some of my favorite books:
 ### The Master and Marguerita
 ### The Abyss (l'Œuvre au noir)
 ### The Leopard (Il Gattopardo)
